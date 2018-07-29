@@ -1,0 +1,1 @@
+For the extra credit I added features to wear when I hover over the ingredients or instructions for the sugar cookies, it will quickly display to you the content. Similar to the assignment, I opted to have where it shows whether or not you have already look at one of the options content.

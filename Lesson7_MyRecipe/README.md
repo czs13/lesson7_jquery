@@ -10,13 +10,14 @@ Web Application Development
 (Connor Simpler)
 
 ### Project Description:
-(Teaches you how to edit a web page in certain ways, even through the Google Chrome console.)
+(Teaches you how to edit a web page in certain ways, even through Google Chrome console.)
 
 ### View Project Online:
-(https://czs13.github.io/lesson7_jquery/)
+(Replace this statement with your Github Page URL that was created when you 
+ published the project.)
 
 ### Lessons Learned in the Assignment:
 1. (How to view the web page code through Google Chrome.)
 2. (How to add things to the web page through Google Chrome console.)
-3. (Adding and editing displays for a web page.)
+3. (Adding and editing displays for a web page..)
 
